@@ -514,7 +514,7 @@ Misc Feature (Nominal): Miscellaneous feature not covered in other categories
        TenC	Tennis Court
        NA	None
 
-Misc Val (Continuous): $Value of miscellaneous feature
+    Misc Val (Continuous): $Value of miscellaneous feature
 
 Mo Sold (Discrete): Month Sold (MM)
 
