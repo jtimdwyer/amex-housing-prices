@@ -14,5 +14,5 @@ These sections should be read in sequence but you may just read the summary at t
 3. [Modeling](./notebooks/modeling.ipynb)
 > Fit and score Linear Regression models with Lasso, Ridge and Elastic Net penalties. Models are stored as `pickle` files in the [data directory](./notebooks/pickled_models)
 
-4. [Summary](./summary.md)   
+4. [Summary](./SUMMARY.md)   
 > A summary of results, methodology and technologies used.
